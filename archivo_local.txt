@@ -1,6 +1,3 @@
 agregando linea
 asegurando un commit en remoto
-agregando linea local 2
-
-
-linea7
+agregando linea 3
